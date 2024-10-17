@@ -8,7 +8,9 @@
 
 😄 Thanks for visiting my profile!
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,html,css,r)](https://skillicons.dev)
+🚀 Try out [CodePad](https://codepad.app/)! A free, powerful, modern online coding platform right in your browser!
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,html,css,r,mysql)](https://skillicons.dev)
 
 ---
 
