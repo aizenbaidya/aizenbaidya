@@ -1,17 +1,17 @@
 # Hello, I'm Aizen! 👋
 
-🏫 I'm studying Computer Science at UC Merced.
+🏫 I'm studying **Computer Science** at **UC Merced** 🐄
 
-🌱 I'm currently learning Data Structures & Algorithms.
+🌱 I'm currently learning **Computer Organization & Assembly Language** 🤖💻
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aizenbaidya/)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aizenbaidya/) 💼
 
-😄 Thanks for visiting my profile!
+🚀 And try out [CodePad](https://codepad.app/)! 📝 A free, powerful, & modern online coding platform in your browser! 🌐
 
-🚀 Try out [CodePad](https://codepad.app/)! A free, powerful, modern online coding platform right in your browser!
+😄 Thanks for visiting my profile! 🙏
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,html,css,r,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,html,css,mysql,r)](https://skillicons.dev)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=aizenbaidya&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=aizenbaidya&color=blue) 👀
