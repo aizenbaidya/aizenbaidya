@@ -6,7 +6,7 @@
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aizenbaidya/) 💼
 
-🚀 And try out [CodePad](https://codepad.app/)! 📝 A free, powerful, modern online coding platform in your browser! 🌐
+🚀 And try out [CodePad](https://codepad.app/)! 📝 A free, powerful, modern coding platform in your browser! 🌐
 
 😄 Thanks for visiting my profile! 🙏
 
